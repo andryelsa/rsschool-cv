@@ -46,3 +46,7 @@ function numberToString(num) {
 - Russian - native speaker;
 - English - A2.
   I try to learn English. I use google translate a lot. But it happens when I can read the text and understand the meaning. Passed the test, showed A2
+
+## Additional information
+
+I am an experienced programmer with a focus on web development and creating user interfaces. My goal is to create efficient and intuitive solutions for users. I have a lot of hobbies like reading, drawing, skating, etc. I also play hockey.
