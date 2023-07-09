@@ -1,4 +1,4 @@
 Markdown & Git
 https://andryelsa.github.io/rsschool-cv/cv
-Markdown & Git
+HTML, CSS & Git Basics
 https://andryelsa.github.io/rsschool-cv/
